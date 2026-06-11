@@ -1,11 +1,20 @@
 h1{
+
     color: grey;
     background-color: rgb(67, 67, 67);
 }
 body{
+
     background-color: rgb(165, 126, 28);
     text-align: center;
+    background-image: url("https://i.pinimg.com/originals/98/a6/98/98a698a1454e7d65be71fb9f8c8701be.gif");
 }
 img{
     width: 300px;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    background-color: white;
 }

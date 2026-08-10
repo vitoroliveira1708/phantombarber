@@ -1,20 +1,18 @@
 h1{
-
     color: grey;
-    background-color: rgb(67, 67, 67);
+    background-color: blue;
 }
 body{
-
-    background-color: rgb(165, 126, 28);
+    background-image: url();
+    background-color: rgb(53, 47, 47);
     text-align: center;
-    background-image: url("https://i.pinimg.com/originals/98/a6/98/98a698a1454e7d65be71fb9f8c8701be.gif");
 }
 img{
-    width: 300px;
-}
-a{
-    text-decoration: none;
+    width: 400px;
 }
 footer{
-    background-color: white;
+    background-color: rgb(43, 0, 255);
+}
+p{
+    color: rgb(244, 250, 250);
 }

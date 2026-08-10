@@ -1,0 +1,26 @@
+header{
+    background-color: rgb(40, 20, 104);
+    height: 200px;
+    padding: 20px 0;
+}
+nav li{
+    display:inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(238, 238, 238);
+    font-size: 22px;
+    font-weight: bold;  
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0 ;
+}
